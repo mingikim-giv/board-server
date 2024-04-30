@@ -1,4 +1,4 @@
-package boardServer.user;
+package boardServer.user.model;
 
 public class UserRequestDto {
 	
